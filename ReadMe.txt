@@ -1,7 +1,7 @@
 ========================================================================
        CONSOLE APPLICATION : calculator
 ========================================================================
-
+Visual C++ 6.0
 
 AppWizard has created this calculator application for you.  
 
